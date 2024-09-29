@@ -4,8 +4,8 @@ name: William app
 tagline: Replace this tagline with your app's tagline
 icon: https://svgur.com/i/mvA.svg
 category: Games
-version: "1.0.0"
-port: 4000
+version: "1.0.1.0.0.0.0.0.0"
+port: 4001
 description: >-
   Add your app's description here.
 
